@@ -1,0 +1,24 @@
+{
+    "textures": {
+        "layer1": "asl:gui/hot"
+    },
+    "elements": [
+        {
+            "from": [ 9.75, 13.45, 15 ],
+            "to": [ 6.25, 6.25, 15 ],
+            "faces": {
+                "south": { "uv":[0,0,16,16],"texture": "#layer1"}
+            }
+        }
+    ],
+	"gui_light": "front",
+    "display": {
+        "gui": {
+            "scale": [ 4, 4, 1 ],
+            "translation": [ 0, -17.3, 0]
+        },
+        "ground": {
+            "scale": [ 0.1, 0.1, 0.1 ]
+        }
+    }
+}

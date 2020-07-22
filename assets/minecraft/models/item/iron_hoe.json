@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 12012403 }, "model": "asl:item/steel_hoe"},
+		{ "predicate": { "custom_model_data": 12012405 }, "model": "asl:item/silver_plated_hoe"}
+        ]
+}

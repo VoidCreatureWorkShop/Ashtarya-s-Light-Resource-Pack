@@ -1,0 +1,24 @@
+{
+    "textures": {
+        "layer1": "asl:gui/dye_ratio"
+    },
+    "elements": [
+        {
+            "from": [ 9.75, 7.85, 0 ],
+            "to": [ 6.25, 6.25, 1 ],
+            "faces": {
+                "south": { "uv":[0,0,16,16],"texture": "#layer1"}
+            }
+        }
+    ],
+	"gui_light": "front",
+    "display": {
+        "gui": {
+            "scale": [ 4, 4, 1 ],
+            "translation": [ 0, 0, 0]
+        },
+        "ground": {
+            "scale": [ 0.1, 0.1, 0.1 ]
+        }
+    }
+}

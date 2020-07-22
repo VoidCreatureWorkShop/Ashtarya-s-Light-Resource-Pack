@@ -1,0 +1,25 @@
+{
+	"credit": "by Pixel_Cube from VoidCreature workShop",
+    "textures": {
+        "layer1": "asl:gui/workdesk_oak"
+    },
+    "elements": [
+        {
+            "from": [ -15, -15, 0 ],
+            "to": [ 29, 28.9, 0 ],
+            "faces": {
+                "south": { "uv":[0,0,16,16],"texture": "#layer1"}
+            }
+        }
+    ],
+	"gui_light": "front",
+    "display": {
+        "gui": {
+            "scale": [ 4, 4, 1 ],
+            "translation": [ 76, -53, -20]
+        },
+        "ground": {
+            "scale": [ 0.1, 0.1, 0.1 ]
+        }
+    }
+}

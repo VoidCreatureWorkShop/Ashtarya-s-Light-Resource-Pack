@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/written_book"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 12019000 }, "model": "asl:item/knowledge_book"},
+		{ "predicate": { "custom_model_data": 12019001 }, "model": "asl:item/textbook_method_basis"}
+        ]
+}

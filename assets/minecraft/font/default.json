@@ -1,0 +1,838 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "asl:font/characters.png",
+            "ascent": 0,
+            "height": 8,
+            "chars": [
+                "\ue100\ue101\ue102\ue103\ue104\ue105\ue106\ue107\ue108\ue109\ue10A\ue10B\ue10C\ue10D\ue10E\ue10F",
+                "\ue110\ue111\ue112\ue113\ue114\ue115\ue116\ue117\ue118\ue119\ue11A\ue11B\ue11C\ue11D\ue11E\ue11F",
+                "\ue120\ue121\ue122\ue123\ue124\ue125\ue126\ue127\ue128\ue129\ue12A\ue12B\ue12C\ue12D\ue12E\ue12F",
+                "\ue130\ue131\ue132\ue133\ue134\ue135\ue136\ue137\ue138\ue139\ue13A\ue13B\ue13C\ue13D\ue13E\ue13F",
+                "\ue140\ue141\ue142\ue143\ue144\ue145\ue146\ue147\ue148\ue149\ue14A\ue14B\ue14C\ue14D\ue14E\ue14F",
+                "\ue150\ue151\ue152\ue153\ue154\ue155\ue156\ue157\ue158\ue159\ue15A\ue15B\ue15C\ue15D\ue15E\ue15F",
+                "\ue160\ue161\ue162\ue163\ue164\ue165\ue166\ue167\ue168\ue169\ue16A\ue16B\ue16C\ue16D\ue16E\ue16F",
+                "\ue170\ue171\ue172\ue173\ue174\ue175\ue176\ue177\ue178\ue179\ue17A\ue17B\ue17C\ue17D\ue17E\ue17F",
+                "\ue180\ue181\ue182\ue183\ue184\ue185\ue186\ue187\ue188\ue189\ue18A\ue18B\ue18C\ue18D\ue18E\ue18F",
+                "\ue190\ue191\ue192\ue193\ue194\ue195\ue196\ue197\ue198\ue199\ue19A\ue19B\ue19C\ue19D\ue19E\ue19F",
+                "\ue1A0\ue1A1\ue1A2\ue1A3\ue1A4\ue1A5\ue1A6\ue1A7\ue1A8\ue1A9\ue1AA\ue1AB\ue1AC\ue1AD\ue1AE\ue1AF",
+                "\ue1B0\ue1B1\ue1B2\ue1B3\ue1B4\ue1B5\ue1B6\ue1B7\ue1B8\ue1B9\ue1BA\ue1BB\ue1BC\ue1BD\ue1BE\ue1BF",
+                "\ue1C0\ue1C1\ue1C2\ue1C3\ue1C4\ue1C5\ue1C6\ue1C7\ue1C8\ue1C9\ue1CA\ue1CB\ue1CC\ue1CD\ue1CE\ue1CF",
+                "\ue1D0\ue1D1\ue1D2\ue1D3\ue1D4\ue1D5\ue1D6\ue1D7\ue1D8\ue1D9\ue1DA\ue1DB\ue1DC\ue1DD\ue1DE\ue1DF",
+                "\ue1E0\ue1E1\ue1E2\ue1E3\ue1E4\ue1E5\ue1E6\ue1E7\ue1E8\ue1E9\ue1EA\ue1EB\ue1EC\ue1ED\ue1EE\ue1EF",
+                "\ue1F0\ue1F1\ue1F2\ue1F3\ue1F4\ue1F5\ue1F6\ue1F7\ue1F8\ue1F9\ue1FA\ue1FB\ue1FC\ue1FD\ue1FE\ue1FF"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0_1.png",
+            "ascent": 101,
+            "height": 110,
+            "chars": [
+                "\ue200\ue201\ue202"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0_2.png",
+            "ascent": 0,
+            "height": 110,
+            "chars": [
+				"\ue203\ue204\ue205"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0_3.png",
+            "ascent": -95,
+            "height": 110,
+            "chars": [
+				"\ue206\ue207\ue208"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.1_1.png",
+            "ascent": 100,
+            "height": 105,
+            "chars": [
+                "\ue209\ue20A\ue20B"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.1_2.png",
+            "ascent": 4,
+            "height": 105,
+            "chars": [
+				"\ue20C\ue20D\ue20E"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.1_3.png",
+            "ascent": -92,
+            "height": 105,
+            "chars": [
+				"\ue20F\ue210\ue211"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.2_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue212\ue213\ue214"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.2_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+				"\ue215\ue216\ue217"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p0.2_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+				"\ue218\ue219\ue21A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p1_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue21B\ue21C\ue21D"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p1_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+				"\ue21F\ue220\ue221"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p1_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+				"\ue222\ue223\ue224"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p2_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue225\ue226\ue227"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p2_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+				"\ue228\ue229\ue22A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p2_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+				"\ue22B\ue22C\ue22D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p4_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue22E\ue22F\ue230"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p4_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue231\ue232\ue233"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p4_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue234\ue235\ue236"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p6_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue237\ue238\ue239"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p6_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue23A\ue23B\ue23C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p6_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue23D\ue23E\ue23F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p8_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue240\ue241\ue242"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p8_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue243\ue244\ue245"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p8_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue246\ue247\ue248"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p10_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue249\ue24A\ue24B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p10_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue24C\ue24D\ue24E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p10_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue24F\ue250\ue251"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p12_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue252\ue253\ue254"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p12_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue255\ue256\ue257"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p12_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue258\ue259\ue25A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p14_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue25B\ue25C\ue25D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p14_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue25E\ue25F\ue260"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p14_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue261\ue262\ue263"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p16_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue264\ue265\ue266"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p16_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue267\ue268\ue269"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p16_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue26A\ue26B\ue26C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p18_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue26D\ue26E\ue26F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p18_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue270\ue271\ue272"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p18_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue273\ue274\ue275"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p20_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue276\ue277\ue278"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p20_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue279\ue27A\ue27B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p20_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue27C\ue27D\ue27E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p22_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue27F\ue280\ue281"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p22_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue282\ue283\ue284"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p22_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue285\ue286\ue287"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p24_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue288\ue289\ue28A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p24_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue28B\ue28C\ue28D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p24_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue28E\ue28F\ue290"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p26_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue291\ue292\ue293"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p26_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue294\ue295\ue296"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p26_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue297\ue298\ue299"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p43_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue29A\ue29B\ue29C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p43_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue29D\ue29E\ue29F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p43_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2A0\ue2A1\ue2A2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p45_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2A3\ue2A4\ue2A5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p45_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2A6\ue2A7\ue2A8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p45_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2A9\ue2AA\ue2AB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p47_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2AC\ue2AD\ue2AE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p47_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2AF\ue2B0\ue2B1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p47_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2B2\ue2B3\ue2B4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p49_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2B5\ue2B6\ue2B7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p49_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2B8\ue2B9\ue2BA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p49_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2BB\ue2BC\ue2BD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p51_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2BE\ue2BF\ue2C0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p51_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2C1\ue2C2\ue2C3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p51_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2C4\ue2C5\ue2C6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p53_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2C7\ue2C8\ue2C9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p53_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2CA\ue2CB\ue2CC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p53_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2CD\ue2CE\ue2CF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p55_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2D0\ue2D1\ue2D2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p55_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2D3\ue2D4\ue2D5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p55_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2D6\ue2D7\ue2D8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p57_1.png",
+            "ascent": 97,
+            "height": 105,
+            "chars": [
+                "\ue2D9\ue2DA\ue2DB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p57_2.png",
+            "ascent": 1,
+            "height": 105,
+            "chars": [
+                "\ue2DC\ue2DD\ue2DE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p57_3.png",
+            "ascent": -95,
+            "height": 105,
+            "chars": [
+                "\ue2DF\ue2E0\ue2E1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p58_1.png",
+            "ascent": 101,
+            "height": 110,
+            "chars": [
+                "\ue2E2\ue2E3\ue2E4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p58_2.png",
+            "ascent": 0,
+            "height": 110,
+            "chars": [
+                "\ue2E5\ue2E6\ue2E7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "asl:font/textbook_method_basis/textbook_method_basis_p58_3.png",
+            "ascent": -95,
+            "height": 110,
+            "chars": [
+                "\ue2E8\ue2E9\ue2EA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -243,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -293,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -294,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -295,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -292,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -242,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -291,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -296,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": 111,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": -3,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": 110,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "negative_space:font/pixel.png",
+            "ascent": -1000,
+            "height": 109,
+            "chars": [
+                "\uF80D"
+            ]
+        }
+    ]
+}

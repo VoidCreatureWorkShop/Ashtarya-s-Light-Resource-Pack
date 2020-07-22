@@ -1,0 +1,6 @@
+{
+    "parent": "asl:gui/brewing_frame/brewing_frame_r_ui",
+    "textures": {
+        "layer1": "asl:gui/brewing_frame/brewing_frame_6_r"
+    }
+}

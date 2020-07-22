@@ -1,0 +1,6 @@
+{
+    "parent": "asl:item/burin_ui",
+    "textures": {
+        "layer0": "asl:item/burin"
+    }
+}

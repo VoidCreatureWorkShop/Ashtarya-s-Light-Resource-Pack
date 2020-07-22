@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_pickaxe"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 12012400 }, "model": "asl:item/pig_iron_hammer"},
+		{ "predicate": { "custom_model_data": 12012401 }, "model": "asl:item/steel_pickaxe"},
+		{ "predicate": { "custom_model_data": 12012404 }, "model": "asl:item/silver_plated_pickaxe"}
+        ]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "asl:gui/charaters/brackets_l"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

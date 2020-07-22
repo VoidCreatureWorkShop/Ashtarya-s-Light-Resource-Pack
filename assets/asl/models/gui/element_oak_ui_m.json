@@ -1,0 +1,46 @@
+{
+	"credit": "by Pixel_Cube from VoidCreature workShop",
+	"textures": {
+		"layer1": "asl:gui/element_oak_ui_m"
+	},
+	"elements": [
+		{
+			"from": [6, 6, -4],
+			"to": [10, 14.5, -4],
+			"faces": {
+				"south": {"uv": [2, 1.125, 3.75, 5], "texture": "#layer1"}
+			}
+		},
+		{
+			"from": [5, 0.98, -3],
+			"to": [11.25, 15.25, -3],
+			"faces": {
+				"south": {"uv": [6.25, 0.625, 9.375, 7.75], "texture": "#layer1"}
+			}
+		},
+		{
+			"from": [5, 0.95, 16],
+			"to": [11.25, 15.25, 16],
+			"faces": {
+				"south": {"uv": [6.25, 8.125, 9.375, 15.25], "texture": "#layer1"}
+			}
+		},
+		{
+			"from": [5, 1, -16],
+			"to": [11.25, 15.25, -16],
+			"faces": {
+				"south": {"uv": [10.875, 0.625, 14, 7.75], "texture": "#layer1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"scale": [4, 4, 1],
+            "translation": [ 0, 0, 0]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		}
+	}
+}
